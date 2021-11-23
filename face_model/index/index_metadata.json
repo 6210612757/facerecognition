@@ -1,0 +1,1 @@
+{"size": 0, "compression": true, "distance": "cosine", "embedding_output": null, "embedding_size": 512, "kv_store": "memory", "evaluator": "memory", "search": "nmslib", "stat_buffer_size": 1000, "is_calibrated": false, "calibration_metric_config": {"name": "f1", "canonical_name": "f1_score", "direction": "max"}, "cutpoints": {}, "calibration_thresholds": {}}
