@@ -16,7 +16,7 @@ from resolution 1280x720 to 640x360 (half resolution). Then map the bounding box
 
 Result : increased FPS by 30%
 
-Average 1.34 FPS able to perform in realtime all the time.
+Average 1.36 FPS able to perform in realtime all the time.
 
 ![old fps](/images/newFPS.png)
 
