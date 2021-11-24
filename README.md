@@ -41,11 +41,12 @@ Test data with 28 known faces and unknown faces.
 
 Result in : 98.20% Accuracy to classify person with 0.0982 threshold to unknown.
 
-Evaluate model with FAR, FRR, EER
+Evaluate model ability to verify faces with FAR, FRR, EER
 
 ![EER](/images/FAR_FRR_EER.jpg)
 
+Result in : EER is around (17,10) the lower value in (x,y) the better performance in face verification
+
 Demo :
 
-![demo](/images/6110613129-face-id.gif)
-
+![demo](/images/6110613129-face_id.gif)
