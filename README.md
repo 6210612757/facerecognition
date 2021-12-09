@@ -50,3 +50,7 @@ Result in : EER is around (17,10) the lower value in (x,y) the better performanc
 Demo :
 
 ![demo](/images/6110613129-face_id.gif)
+
+Implements :
+Frontend : <https://github.com/6110613228/face-verification-ui>
+Backend : <https://github.com/6110613228/face-verification-backend>
