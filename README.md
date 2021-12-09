@@ -51,6 +51,8 @@ Demo :
 
 ![demo](/images/6110613129-face_id.gif)
 
-Implements :
+### Implements
+
 Frontend : <https://github.com/6110613228/face-verification-ui>
+
 Backend : <https://github.com/6110613228/face-verification-backend>
